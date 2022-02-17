@@ -1,5 +1,6 @@
 # hse_hw1_meth
 [Google Colab](https://colab.research.google.com/drive/1yBd1ycVFSprWuET_Lu60czm2ZlHpFyGw?usp=sharing)
+[FastQC Analysis](https://colab.research.google.com/drive/1d1MUMy5hoQar7GePFYeM850LgPsevQ4J?usp=sharing)
 ## Statistics
 **ID** | **Type** | **Region** | **N_reads** 
 ------------ | ------------- | ------------- | -------------
