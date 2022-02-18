@@ -6,7 +6,11 @@
 <img width="500" alt="Screen Shot 2022-02-18 at 15 28 19" src="https://user-images.githubusercontent.com/55647212/154684327-6d557ce7-97da-488a-9e96-7e68a58d8216.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 28 27" src="https://user-images.githubusercontent.com/55647212/154684475-859898e1-3bce-4f6a-a2c7-4489a2b0d85b.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 28 47" src="https://user-images.githubusercontent.com/55647212/154684486-7ac760aa-1240-4735-9795-1ce0b9cc4538.png">
+
+> В отличие от ДНК и РНК, не совсем равномерный состав ATCG, обычно количество A=T, C=G (в РНК для первых 10-15 нуклеотидов есть расхождения). Так как в бисульфитном seq большинство С конвертируется в T, то такое распределение довольно ожидаемо
 <img width="500" alt="Screen Shot 2022-02-18 at 15 28 53" src="https://user-images.githubusercontent.com/55647212/154684514-769358f1-c91e-47d9-a782-269275901564.png">
+
+> 2 пика, что не свойственно ДНК/РНК, однако объяснимо конвертированием С в T
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 02" src="https://user-images.githubusercontent.com/55647212/154684531-18104100-64fc-4e56-93db-939d9bf4c485.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 08" src="https://user-images.githubusercontent.com/55647212/154684549-54e14caa-407a-4c8d-aeb2-c419376a1a0d.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 19" src="https://user-images.githubusercontent.com/55647212/154684557-867b3bc3-d280-4a15-a946-8ea81f2e90b8.png">
