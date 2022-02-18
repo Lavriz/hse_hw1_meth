@@ -53,6 +53,8 @@ SRR3824222_1 | Epiblast | 205258 (2.92%)
 #### Epiblast 
 ![Bismark M-bias Read 1](https://user-images.githubusercontent.com/55647212/154629026-fb04b1a5-1600-48ee-85e0-2d915ee11828.png)
 ![Bismark M-bias Read 2](https://user-images.githubusercontent.com/55647212/154629076-f4210e3e-2c26-466c-afec-e871f137edcf.png)
+#### Комментарий ко всем M-bias plots:
+В 8 cell примерно ~ 42% CpG, затем процент падает до ~ 22% (ICM) и поднимается в Epiblast до ~ 44%, что коррелирует со волнами деметилирования-метилирования. Объяснение для drop в CHH на Read 2: согласно [статье](https://sequencing.qcfail.com/articles/library-end-repair-reaction-introduces-methylation-biases-in-paired-end-pe-bisulfite-seq-applications/), скорее всего, это артефакт
 ### Methylation & Coverage
 <img width ="800" src='https://user-images.githubusercontent.com/55647212/154627643-89977a13-03b2-4481-86f1-418f776b6e5a.png'>
 <img width ="800" src='https://user-images.githubusercontent.com/55647212/154627674-4e5ca71c-eadd-4094-a6e8-f8548c7c508b.png'>
