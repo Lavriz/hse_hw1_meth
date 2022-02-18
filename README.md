@@ -39,10 +39,10 @@ SRR3824222_1 | Epiblast | 205258 (2.92%)
 > Большего всего freq = ~ 50% CpG methylation
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154627243-0e026d7c-18d1-4507-b35f-814714a1c6b9.png'>
 
-> Контент СpG methylation упал, больше всего freq = 20% CpG methylation
+> Контент СpG methylation упал, больше всего freq = 20% CpG methylation. Соответствует графику из статьи
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154627297-15baef38-2f54-40c1-8804-d2270807c97a.png'>
 
-> %CpG methylation поднялся и большинство имеет freq = 100%. Данные следуют параллельно волнам деметилирования-метилирования. 
+> %CpG methylation поднялся и большинство имеет freq = 100%. Данные следуют параллельно волнам деметилирования-метилирования. Соответствует графику из статьи
 ### M-bias plots
 #### 8 cell
 ![Bismark M-bias Read 1-2](https://user-images.githubusercontent.com/55647212/154629129-a16d2af3-d86f-4490-affe-b50c02c5fccb.png)
