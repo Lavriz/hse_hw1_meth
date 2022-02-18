@@ -10,10 +10,13 @@
 > В отличие от ДНК и РНК, не совсем равномерный состав ATCG, обычно количество A=T, C=G (в РНК для первых 10-15 нуклеотидов есть расхождения). Так как в бисульфитном seq большинство С конвертируется в T, то такое распределение довольно ожидаемо
 <img width="500" alt="Screen Shot 2022-02-18 at 15 28 53" src="https://user-images.githubusercontent.com/55647212/154684514-769358f1-c91e-47d9-a782-269275901564.png">
 
-> 2 пика, что не свойственно ДНК/РНК, однако объяснимо конвертированием С в T
+> 2 пика, не нормальное распределение, возможно contamination
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 02" src="https://user-images.githubusercontent.com/55647212/154684531-18104100-64fc-4e56-93db-939d9bf4c485.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 08" src="https://user-images.githubusercontent.com/55647212/154684549-54e14caa-407a-4c8d-aeb2-c419376a1a0d.png">
 <img width="500" alt="Screen Shot 2022-02-18 at 15 29 19" src="https://user-images.githubusercontent.com/55647212/154684557-867b3bc3-d280-4a15-a946-8ea81f2e90b8.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 16 45 36" src="https://user-images.githubusercontent.com/55647212/154694337-c12c6456-ae6e-4495-9c90-2497c18fdd1b.png">
+
+>  Содержатся адаптеры, что тоже могло повлиять на GC content/Sequence content
 
 ## Statistics
 **ID** | **Type** | **Region** | **N_reads** 
