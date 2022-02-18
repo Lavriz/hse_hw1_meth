@@ -36,7 +36,7 @@ SRR3824222_1 | Epiblast | 205258 (2.92%)
 ## CpG Histograms
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154626980-bd762f11-50e3-4afb-89d3-4fa21eb6ca8c.png'>
 
-> Большего всего freq ~ 50% CpG
+> Большего всего freq = ~ 50% CpG
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154627243-0e026d7c-18d1-4507-b35f-814714a1c6b9.png'>
 
 > Контент СpG упал, больше всего freq = 20% CpG
