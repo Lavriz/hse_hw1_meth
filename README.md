@@ -36,13 +36,13 @@ SRR3824222_1 | Epiblast | 205258 (2.92%)
 ## CpG Histograms
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154626980-bd762f11-50e3-4afb-89d3-4fa21eb6ca8c.png'>
 
-> comment
+> Большего всего freq ~ 50% CpG
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154627243-0e026d7c-18d1-4507-b35f-814714a1c6b9.png'>
 
-> comment
+> Контент СpG упал, больше всего freq = 20% CpG
 <img width ="400" src='https://user-images.githubusercontent.com/55647212/154627297-15baef38-2f54-40c1-8804-d2270807c97a.png'>
 
-> comment
+> %CpG поднялся и большинство имеет freq = 100%. Данные следуют параллельно волнам деметилирования-метилирования. 
 ### M-bias plots
 #### 8 cell
 ![Bismark M-bias Read 1-2](https://user-images.githubusercontent.com/55647212/154629129-a16d2af3-d86f-4490-affe-b50c02c5fccb.png)
