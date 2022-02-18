@@ -2,6 +2,15 @@
 [Google Colab](https://colab.research.google.com/drive/1yBd1ycVFSprWuET_Lu60czm2ZlHpFyGw?usp=sharing)
 
 [FastQC Analysis](https://colab.research.google.com/drive/1d1MUMy5hoQar7GePFYeM850LgPsevQ4J?usp=sharing)
+## FastQC
+<img width="500" alt="Screen Shot 2022-02-18 at 15 28 19" src="https://user-images.githubusercontent.com/55647212/154684327-6d557ce7-97da-488a-9e96-7e68a58d8216.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 28 27" src="https://user-images.githubusercontent.com/55647212/154684475-859898e1-3bce-4f6a-a2c7-4489a2b0d85b.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 28 47" src="https://user-images.githubusercontent.com/55647212/154684486-7ac760aa-1240-4735-9795-1ce0b9cc4538.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 28 53" src="https://user-images.githubusercontent.com/55647212/154684514-769358f1-c91e-47d9-a782-269275901564.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 29 02" src="https://user-images.githubusercontent.com/55647212/154684531-18104100-64fc-4e56-93db-939d9bf4c485.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 29 08" src="https://user-images.githubusercontent.com/55647212/154684549-54e14caa-407a-4c8d-aeb2-c419376a1a0d.png">
+<img width="500" alt="Screen Shot 2022-02-18 at 15 29 19" src="https://user-images.githubusercontent.com/55647212/154684557-867b3bc3-d280-4a15-a946-8ea81f2e90b8.png">
+
 ## Statistics
 **ID** | **Type** | **Region** | **N_reads** 
 ------------ | ------------- | ------------- | -------------
